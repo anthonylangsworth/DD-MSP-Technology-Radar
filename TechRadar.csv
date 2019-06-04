@@ -1,2 +1,5 @@
 name,ring,quadrant,isNew,description
 C#,adopt,language-and-frameworks,FALSE,<p>Test</p>
+C#,adopt,tools,FALSE,<p>Test</p>
+C#,adopt,platforms,FALSE,<p>Test</p>
+Scaled Agile Framework (SAFe),adopt,techniques,FALSE,<p>Test</p>
