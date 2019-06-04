@@ -1,5 +1,15 @@
 name,ring,quadrant,isNew,description
-C#,adopt,language-and-frameworks,FALSE,<p>Test</p>
-C#,adopt,tools,FALSE,<p>Test</p>
-C#,adopt,platforms,FALSE,<p>Test</p>
+.Net Core,adopt,language-and-frameworks,FALSE,<p>Test</p>
+.Net Framework,hold,language-and-frameworks,FALSE,<p>Test</p>
+JavaScript,adopt,language-and-frameworks,FALSE,<p>Test</p>
+NodeJS,adopt,language-and-frameworks,FALSE,<p>Test</p>
+Python,adopt,language-and-frameworks,FALSE,<p>Test</p>
+Angular,adopt,language-and-frameworks,FALSE,<p>Test</p>
+React,assess,language-and-frameworks,FALSE,<p>Test</p>
+Terraform,adopt,tools,FALSE,<p>Test</p>
+Qualys,adopt,tools,FALSE,<p>Test</p>
+Crowdstrike,adopt,tools,FALSE,<p>Test</p>
+Containers,adopt,platforms,FALSE,<p>Test</p>
+Managed Compute Platform,hold,platforms,FALSE,<p>Test</p>
+Containers,adopt,platforms,FALSE,<p>Test</p>
 Scaled Agile Framework (SAFe),adopt,techniques,FALSE,<p>Test</p>
