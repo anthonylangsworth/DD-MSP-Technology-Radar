@@ -9,7 +9,12 @@ React,assess,language-and-frameworks,FALSE,<p>Test</p>
 Terraform,adopt,tools,FALSE,<p>Test</p>
 Qualys,adopt,tools,FALSE,<p>Test</p>
 Crowdstrike,adopt,tools,FALSE,<p>Test</p>
+Computer Associates (CA) Universal Infrastructure Manager (UIM),adopt,tools,FALSE,<p>Test</p>
 Containers,adopt,platforms,FALSE,<p>Test</p>
-Managed Compute Platform,hold,platforms,FALSE,<p>Test</p>
-Containers,adopt,platforms,FALSE,<p>Test</p>
+Managed Compute Platform,adopt,platforms,FALSE,<p>Test</p>
+Amazon Web Services,adopt,platforms,FALSE,<p>Test</p>
+Microsoft Azure,adopt,platforms,FALSE,<p>Test</p>
+RabbitMQ,adopt,platforms,FALSE,<p>Test</p>
+ServiceNow,adopt,platforms,FALSE,<p>Test</p>
 Scaled Agile Framework (SAFe),adopt,techniques,FALSE,<p>Test</p>
+Microservices architecture,adopt,platforms,FALSE,<p>Test</p>
